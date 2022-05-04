@@ -11,13 +11,13 @@ html {
 }
 
 .hero {
-  visibility: hidden;
+  // visibility: hidden;
   height: 100vh;
   overflow-x: hidden;
   .container {
     width: min(95%, 1200px);
     margin: 0 auto;
-    background-color: red;
+    // background-color: red;
     .hero-inner {
       display: flex;
       align-items: center;
